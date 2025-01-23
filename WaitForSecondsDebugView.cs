@@ -4,7 +4,6 @@
 
 using UnityEngine;
 using System.Collections.Generic;
-using AbyssMoth.Internal.Codebase.Runtime._MainMenuModule.User;
 
 namespace AbyssMoth
 {
